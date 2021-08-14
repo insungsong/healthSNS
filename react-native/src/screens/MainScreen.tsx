@@ -13,6 +13,7 @@ const MainScreen = () => {
     setMainScreen(MAIN_SCREEN.TAB_NAVIGATOR);
   }, [loaded]);
 
+  //MainScreen filter code
   if (mainScreen === MAIN_SCREEN.LOADING) {
     console.log('mainScreen === MAIN_SCREEN.LOADING');
     return <Spinner visible={true} />;
