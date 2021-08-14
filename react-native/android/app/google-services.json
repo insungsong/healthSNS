@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "744320878826",
+    "firebase_url": "https://bixink-initialproject.firebaseio.com",
+    "project_id": "bixink-initialproject",
+    "storage_bucket": "bixink-initialproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744320878826:android:c1aa615d40c19a524caf93",
+        "android_client_info": {
+          "package_name": "com.initial.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744320878826-5jki94mmj9fk43bmmq32kh7q4h49o4hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS118wOnmJP4x_C2yVk3Vujt91K9-XMS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744320878826-5jki94mmj9fk43bmmq32kh7q4h49o4hv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "744320878826-b6q78c0bv3b5k8j6129i1bed0bhutliv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.initial.project"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
