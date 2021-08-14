@@ -5,7 +5,7 @@ const HomeScreen = () => {
   console.log('HomeScreen');
   return (
     <View>
-      <Text>HomeScreen</Text>
+      <Text>HomeScreen View</Text>
     </View>
   );
 };
